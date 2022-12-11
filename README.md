@@ -3,8 +3,9 @@
 ## Tecnologias utilizadas
   - [React Native](https://reactnative.dev/)
   - [Expo](https://expo.dev/)
+  - [Native Base](https://nativebase.io/)
 
-## Configuração da aplicação
+## Criando a aplicação
 
 ### Criando a app base com Expo
 ```bash
@@ -27,3 +28,7 @@ Responda sim (`y`) para que o expo instale e configure os types do typescript.
 O Expo vai iniciar a aplicação e exibir um QRCode para ser lido pelo dispositivo.
 
 Caso esteja usando o emulador, use o menu conforme o local em que deseja visualizar a aplicação.
+
+## Configurando a aplicação
+
+Depois de importados os assets, edite o arquivo app.json para personalizar a splashscreen.
